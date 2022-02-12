@@ -1,0 +1,13 @@
+arctic ice
+a 63 byte DOS intro for lovebyte 2022
+
+code: byte.observer
+github: @nwoeanhinnogaehr
+https://byte.observer
+
+Recommended environment:
+dosbox 0.74-3 with cycles=fixed 100000
+
+This was coded in a hurry! It can surely be made smaller.
+
+Greets to sizecoders around the globe.
