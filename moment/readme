@@ -1,0 +1,14 @@
+momentary sierpinski 32b
+a 32 byte DOS intro for lovebyte 2022
+
+code: byte.observer
+github: @nwoeanhinnogaehr
+https://byte.observer
+
+Recommended environment:
+dosbox 0.74-3 with 20000 to 100000 cycles, (486 / pentium era)
+Also tested on a 286. It's slow, but it works.
+
+Capture: https://www.youtube.com/watch?v=WH_EB78hX5c
+
+Greets to sizecoders around the globe.
