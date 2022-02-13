@@ -1,0 +1,27 @@
+rot(ate) 128b
+a 128b Linux intro for lovebyte 2022
+
+code: byte.observer
+github: @nwoeanhinnogaehr
+https://byte.observer
+
+Infos:
+    You will want to turn up your subwoofer for this one! Yes, the visuals are
+    not so interesting, but 128b is *really* tiny on Linux. At this size, you
+    ultimately get to choose visuals or sounds. I chose to fork into two
+    processes and run the exact same code for both visuals and sounds, just
+    with a different file descriptor in ebx :)
+
+Recommended environment:
+    Any distro with aplay audio player working where you can set the
+    framebuffer resolution to something small, like 512x256. The graphics are
+    kind of slow, so if you run it at a high resolution, you will get low FPS.
+    For instructions on getting the framebuffer set up, see here:
+    http://www.sizecoding.org/wiki/Linux
+
+To run:
+    $ ./rot(ate)
+
+Capture: https://youtu.be/pVHgcG1GSNo
+
+Greets to sizecoders around the globe.
