@@ -1,0 +1,14 @@
+ruler 16b
+a 16 byte DOS intro for lovebyte 2022
+
+code: byte.observer
+github: @nwoeanhinnogaehr
+https://byte.observer
+
+Recommended environment:
+dosbox 0.74-3 with cycles=fixed 315, or a real 8086.
+I tested it on my 286 and it runs fine but a bit fast.
+
+Capture: https://youtu.be/bViPpADOMqo
+
+Greets to sizecoders around the globe.
